@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Matthew's Menagerie</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mukta:300,400,700"> 
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    
+  </head>
+  <body>
+  
+   <div class="site-wrap">
+    <header class="site-navbar">
+      <div class="site-navbar-top">
+        <div class="container">
+          <div class="row align-items-center">
+
+            <div class="col-6 col-md-4 order-2 order-md-1 site-search-icon text-left">
+                <a href='index.php?choice=logoff'>Log Out</a>
+            </div>
+
+            <div class="col-12 mb-3 mb-md-0 col-md-4 order-1 order-md-2 text-center">
+              <div class="site-logo">
+                <a href="index.php?choice=home" class="js-logo-clone">Matthew's Menagerie</a>
+              </div>
+            </div>
+
+            <div class="col-6 col-md-4 order-3 order-md-3 text-right">
+              <div class="site-top-icons">
+                <ul>
+                  <li></li>
+                  <li></li>
+                  <li>
+                    <a href="index.php?choice=cart" class="site-cart">
+                      <span class="icon icon-shopping_cart"></span>
+                    </a>
+                  </li> 
+                  <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a></li>
+                </ul>
+              </div> 
+            </div>
+
+          </div>
+        </div>
+      </div> 
+      <nav class="site-navigation text-right text-md-center">
+        <div class="container">
+          <ul class="site-menu js-clone-nav d-none d-md-block">
+            <li><a href="index.php?choice=home">Home</a></li>
+            <li class="has-children active">
+              <a>Shop Animals</a>
+              <ul class="dropdown">
+                <li class="has-children">
+                  <a href="#">Mustelids</a>
+                  <ul class="dropdown">
+                    <li><a href="index.php?choice=otter">Otter</a></li>
+                    <li><a href="index.php?choice=badger">Badger</a></li>
+                    <li><a href="index.php?choice=ferret">Ferret</a></li>
+                    <li><a href="index.php?choice=marten">Marten</a></li>
+                  </ul>
+                </li>
+                <li class="has-children">
+                  <a href="#">Lagomorphs</a>
+                  <ul class="dropdown">
+                    <li><a href="index.php?choice=rabbit">Rabbit</a></li>
+                    <li><a href="index.php?choice=hare">Hare</a></li>
+                    <li><a href="index.php?choice=pika">Pika</a></li>
+                    <li><a href="index.php?choice=jackalope">Jackalope</a></li>
+                  </ul>
+                </li>
+                <li class="has-children">
+                  <a href="#">Felines</a>
+                  <ul class="dropdown">
+                    <li><a href="index.php?choice=snow_leopard">Snow Leopard</a></li>
+                    <li><a href="index.php?choice=cheetah">Cheetah</a></li>
+                    <li><a href="index.php?choice=panther">Panther</a></li>
+                    <li><a href="index.php?choice=puma">Puma</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="index.php?choice=about">About</a>
+            </li>
+            <li><a href="index.php?choice=contact">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+  </div>
+
+    <div class="bg-light py-3">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 mb-0"><a href="index.php?choice=home">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">About</strong></div>
+        </div>
+      </div>
+    </div>  
+
+    <div class="site-section border-bottom" data-aos="fade">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-6">
+            <div class="block-16">
+              <figure>
+                <img src="view/images/zoo.jpg" alt="Image placeholder" class="img-fluid rounded">
+
+              </figure>
+            </div>
+          </div>
+          <div class="col-md-1"></div>
+          <div class="col-md-5">
+            
+            
+            <div class="site-section-heading pt-3 mb-4">
+              <h2 class="text-black">How We Started</h2>
+            </div>
+            <p>A buddy and I worked at a zoo. The zoo went bankrupt. The manager of the zoo wanted to donate the animals to other zoos that could afford to house them.</p>
+            <p>My buddy and I tried to convince the manager to sell the animals instead, but she vehemently disagreed. Then she accidentally fell into the tiger enclosure.</p>
+            <p>We decided to take it upon ourselves to find places for the animals out of the goodness of our hearts. Then my buddy fell in the tiger enclosure too. Such a shame.</p>
+            <p>Now it is up to me to find housing for these animals.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" class="text-primary">Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+          </div>
+          
+        </div>
+      </div>
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
